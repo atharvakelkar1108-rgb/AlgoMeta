@@ -1,0 +1,11 @@
+property,value
+target,f1_mean
+number_of_meta_features,23
+number_of_algorithms,5
+algorithms,"Decision Tree, KNN, Logistic Regression, Random Forest, SVM"
+training_rows,104
+testing_rows,26
+mae,0.04148236059722881
+rmse,0.055874670183336035
+r2,0.9535325213957659
+model_file,/home/workdir/ml_project/results/meta_model.joblib

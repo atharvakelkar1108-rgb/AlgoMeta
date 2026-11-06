@@ -1,0 +1,31 @@
+dataset_name,target_column
+adult,income
+ai_vs_human_text,label
+bank-additional-full,y
+bank,deposit
+breast-cancer,diagnosis
+car_evaluation,class
+combined_dataset,label
+covtype,Cover_Type
+creditcard,Class
+Diabetes_prediction,Diagnosis
+Disease_symptom_and_patient_profile_dataset,Outcome Variable
+dry_bean,Class
+german_credit_data,Risk
+glass,Type of glass
+haberman,survival_status
+heart,HeartDisease
+hotel_bookings,is_canceled
+HTRU_2,target
+ionosphere,target
+Iris,Species
+mushrooms,class
+sonar data,target
+student_placement_prediction_dataset,placement_status
+telescope_data,class
+Wholesale customers data,Channel
+winequalityN,type
+smart_city_traffic_stress_dataset,driver_experience_level
+Mobile_Price_Classification,touch_screen
+MiniBooNE_PID,49
+Electric_Production,DATE
